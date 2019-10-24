@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<layman>
+	<overlay
+		type    = "git"
+		src     = "https://github.com/abusse/intel-sgx-overlay.git"
+		contact = "anselm.busse@outlook.com"
+		name    = "intel-sgx">
+		<link>http://www.anselm-busse.de</link>
+		<description>Intel SGX ebuilds for Gentoo</description>
+	</overlay>
+</layman>
